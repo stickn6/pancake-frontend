@@ -1,1 +1,0 @@
-(this["webpackJsonppancake-frontend"]=this["webpackJsonppancake-frontend"]||[]).push([[4],{669:function(n,c){},721:function(n,c){},723:function(n,c){},758:function(n,c){},776:function(n,c){},778:function(n,c){}}]);
