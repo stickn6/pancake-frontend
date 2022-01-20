@@ -3,19 +3,19 @@
     "static/js/0.37453688.chunk.js": "/static/js/0.37453688.chunk.js",
     "main.js": "/static/js/main.fdef9caa.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.8a2363f8.js",
-    "static/js/3.bb3ee807.chunk.js": "/static/js/3.bb3ee807.chunk.js",
+    "static/js/3.83383f10.chunk.js": "/static/js/3.83383f10.chunk.js",
     "static/js/4.a3bd896f.chunk.js": "/static/js/4.a3bd896f.chunk.js",
     "static/js/5.6af0a014.chunk.js": "/static/js/5.6af0a014.chunk.js",
     "static/js/6.f4257190.chunk.js": "/static/js/6.f4257190.chunk.js",
     "static/js/7.7571c608.chunk.js": "/static/js/7.7571c608.chunk.js",
     "static/js/8.1882b6f5.chunk.js": "/static/js/8.1882b6f5.chunk.js",
     "index.html": "/index.html",
-    "static/js/3.bb3ee807.chunk.js.LICENSE.txt": "/static/js/3.bb3ee807.chunk.js.LICENSE.txt",
+    "static/js/3.83383f10.chunk.js.LICENSE.txt": "/static/js/3.83383f10.chunk.js.LICENSE.txt",
     "static/js/4.a3bd896f.chunk.js.LICENSE.txt": "/static/js/4.a3bd896f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8a2363f8.js",
-    "static/js/3.bb3ee807.chunk.js",
+    "static/js/3.83383f10.chunk.js",
     "static/js/main.fdef9caa.chunk.js"
   ]
 }
